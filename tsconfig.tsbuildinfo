@@ -1,0 +1,1 @@
+{"root":["./src/mcp-server.ts","./src/server.ts","./src/aiModel/embeddings.ts","./src/aiModel/index.ts","./src/pinecone/index.ts","./src/routes/follow-back-prompt.ts","./src/routes/prompt.ts","./src/routes/template.ts","./src/templates/index.ts"],"version":"5.9.2"}
